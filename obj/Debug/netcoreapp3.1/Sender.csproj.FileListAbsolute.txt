@@ -1,0 +1,17 @@
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\admivm\Sender\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\admivm\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+C:\Users\admivm\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+C:\Users\admivm\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+C:\Users\admivm\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+C:\Users\admivm\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+C:\Users\admivm\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+C:\Users\admivm\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+C:\Users\admivm\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
